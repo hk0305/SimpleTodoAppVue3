@@ -32,6 +32,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.2",
+    "@vue/devtools": "^5.3.4",
     "bootstrap": "^5.1.3",
     "install": "^0.13.0",
     "vue": "^3.2.25"
